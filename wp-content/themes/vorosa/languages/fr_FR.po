@@ -1,0 +1,904 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vorosa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-28 04:18+0000\n"
+"PO-Revision-Date: 2019-03-05 06:39+0000\n"
+"Last-Translator: test <simt.ashim@gmail.com>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: inc/global-functions.php:179 inc/footer/copyright.php:36
+msgid " All Rights Reserved."
+msgstr "Tous les droits sont réservés."
+
+#: template-parts/content-single.php:91
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: inc/comment-form.php:31 inc/comment-form.php:83
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/comment-form.php:34 inc/comment-form.php:86
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/metabox/metabox.php:103
+msgid "--- Default ---"
+msgstr "--- Défaut ---"
+
+#: inc/metabox/metabox.php:90
+msgid "--- Select --- "
+msgstr "--- Sélectionnez ---"
+
+#: template-parts/blog-layout.php:47 template-parts/content-search.php:25
+msgid "0"
+msgstr ""
+
+#: template-parts/blog-layout.php:47 template-parts/content-search.php:25
+msgid "1"
+msgstr ""
+
+#: template-parts/content-single.php:91
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: inc/widgets/widget-register.php:13 inc/widgets/widget-register.php:23
+#: inc/widgets/widget-register.php:34 inc/widgets/widget-register.php:53
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: inc/metabox/metabox.php:349
+msgid "Additional text"
+msgstr "Texte supplémentaire"
+
+#: inc/demo-import.php:16
+msgid "After you import this demo, you will have setup all content."
+msgstr "Après avoir importé cette démo, vous aurez configuré tout le contenu."
+
+#: inc/tgm-plugin/required-plugins.php:213
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins installés et activés avec succès. %1$s"
+
+#: inc/breadcrumb/breadcrumb.php:25
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archive par catégorie \"%s\""
+
+#: inc/breadcrumb/breadcrumb.php:26
+#, php-format
+msgid "Archive for \"%s\""
+msgstr "Une archive pour \"%s\""
+
+#: inc/breadcrumb/breadcrumb.php:29
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Articles publiés par %s"
+
+#: inc/tgm-plugin/required-plugins.php:203
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencez à activer le plugin"
+msgstr[1] "Commencez à activer les plugins"
+
+#: inc/tgm-plugin/required-plugins.php:193
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation du plugin"
+msgstr[1] "Commencer l'installation des plugins"
+
+#: inc/tgm-plugin/required-plugins.php:198
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour du plugin"
+msgstr[1] "Commencer à mettre à jour les plugins"
+
+#: inc/metabox/metabox.php:142
+msgid "BG Overlay Color"
+msgstr "Couleur de superposition BG"
+
+#: inc/global-functions.php:17
+msgid "Blog"
+msgstr "Blog"
+
+#: template-parts/blog-layout.php:31
+msgid "blog link image"
+msgstr "lien de blog image"
+
+#. Name of the template
+msgid "Both Sidebar"
+msgstr "Les deux sidebar"
+
+#. Name of the template
+msgid "Both Sidebar Full"
+msgstr "Les deux barres latérales complètes"
+
+#: inc/metabox/metabox.php:124 inc/metabox/metabox.php:126
+msgid "Breadcrumb Background Color"
+msgstr "Breadcrumb Couleur de fond"
+
+#: inc/metabox/metabox.php:195
+msgid "Breadcrumbs Bottom Padding"
+msgstr "Chapelure Rembourrage en bas"
+
+#: inc/metabox/metabox.php:144
+msgid "Breadcrumbs Overlay Color"
+msgstr "Chapelure couleur de superposition"
+
+#: inc/metabox/metabox.php:152
+msgid "Breadcrumbs Overlay Opacity ( ex: .0 - 1)"
+msgstr "Chapelure opacité superposition ( ex: .0 - 1)"
+
+#: inc/metabox/metabox.php:157
+msgid "Breadcrumbs Text Position"
+msgstr "Breadcrumbs Position du texte"
+
+#: inc/metabox/metabox.php:159
+msgid "Breadcrumbs text position"
+msgstr "Breadcrumbs position du texte"
+
+#: inc/metabox/metabox.php:173
+msgid "Breadcrumbs title color"
+msgstr "Breadcrumbs titre couleur"
+
+#: inc/metabox/metabox.php:181
+msgid "Breadcrumbs title font size"
+msgstr ""
+
+#: inc/metabox/metabox.php:187
+msgid "Breadcrumbs Top Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:370
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:90
+msgid "By :"
+msgstr "Par :"
+
+#: inc/metabox/metabox.php:322
+msgid "Causes Settings"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:70
+msgid "CMB2"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: template-parts/blog-layout.php:47 template-parts/content-search.php:25
+#: template-parts/content-single.php:91
+msgid "Comments off"
+msgstr "Commentaires off"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: inc/tgm-plugin/required-plugins.php:80
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/global-functions.php:179 inc/footer/copyright.php:36
+msgid "Copyright"
+msgstr "droits d'auteur"
+
+#: functions.php:313
+msgid "Create Menu"
+msgstr ""
+
+#: single-event.php:88
+msgid "Date :"
+msgstr "Rendez-vous amoureux :"
+
+#. %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:31
+#, php-format
+msgid "Edit %s"
+msgstr "modifier %s"
+
+#: inc/metabox/metabox.php:112
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:30
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: inc/metabox/metabox.php:283
+msgid "Evant Location"
+msgstr "Lieu Evant"
+
+#: single-event.php:84
+msgid "Event Details"
+msgstr "Détails de l'évènement"
+
+#: inc/metabox/metabox.php:212
+msgid "Event Settings"
+msgstr "Paramètres de l'événement"
+
+#: functions.php:63
+msgid "Footer Copyright Menu"
+msgstr ""
+
+#: inc/global-functions.php:112
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/metabox/metabox.php:360
+msgid "Form Link"
+msgstr ""
+
+#: inc/metabox/metabox.php:339
+msgid "Form Shortcode"
+msgstr ""
+
+#. Name of the template
+#: inc/metabox/metabox.php:50
+msgid "Full Width"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:100
+msgid "Give - Donation Plugin"
+msgstr ""
+
+#: 404.php:43
+msgid "Go back to Home Page"
+msgstr "Retournez à la page d'accueil"
+
+#. Author of the theme
+msgid "HasTech"
+msgstr ""
+
+#: inc/metabox/metabox.php:79
+msgid "Header Default"
+msgstr "En-tête par défaut"
+
+#: inc/breadcrumb/breadcrumb.php:24
+msgid "Home"
+msgstr "Accueil"
+
+#. URI of the theme
+msgid "http://demo.wphash.com/vorosa/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://devitems.com"
+msgstr ""
+
+#: inc/metabox/metabox.php:313
+msgid "Input Google Map API Key Here"
+msgstr ""
+
+#: inc/metabox/metabox.php:284
+msgid "Input latitude longitude Here"
+msgstr ""
+
+#: inc/metabox/metabox.php:189 inc/metabox/metabox.php:197
+msgid "inset padding ex-80"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:95
+msgid "Instagram Widget"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:145
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:144
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:146
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:85
+msgid "King Composer"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a Comment"
+msgstr "Laissez un commentaire"
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Laissez un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/metabox/metabox.php:51 inc/widgets/widget-register.php:21
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Left sidebar"
+msgstr ""
+
+#: single-event.php:71
+msgid "Location : "
+msgstr "Emplacement :"
+
+#: inc/header/header-top-bar.php:75 inc/header/header-top-bar.php:145
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:90
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: inc/metabox/metabox.php:74
+msgid "Menu Style1"
+msgstr ""
+
+#: inc/metabox/metabox.php:75
+msgid "Menu Style2"
+msgstr ""
+
+#: inc/metabox/metabox.php:77
+msgid "Menu Style4"
+msgstr ""
+
+#: inc/metabox/metabox.php:78
+msgid "Menu Style5"
+msgstr ""
+
+#: inc/metabox/metabox.php:91
+msgid "Menu Transparent"
+msgstr ""
+
+#: inc/comment-nav.php:11
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: template-parts/content-single.php:110
+msgid "next post"
+msgstr "prochain post"
+
+#: inc/metabox/metabox.php:118
+msgid "No"
+msgstr "Non"
+
+#: inc/tgm-plugin/required-plugins.php:211
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/content-single.php:91
+msgid "No Comment"
+msgstr "Sans commentaires"
+
+#: inc/metabox/metabox.php:92
+msgid "Normal Menu"
+msgstr "Menu normal"
+
+#: 404.php:19
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "rien n'a été trouvé"
+
+#: inc/metabox/metabox.php:105
+msgid "Off"
+msgstr "De"
+
+#: inc/comment-nav.php:6
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: inc/metabox/metabox.php:104
+msgid "On"
+msgstr "Sur"
+
+#: single-event.php:52
+msgid "On: "
+msgstr "Sur:"
+
+#: inc/tgm-plugin/required-plugins.php:115
+msgid "One Click Demo Import"
+msgstr "Import de démo en un clic"
+
+#: functions.php:60 inc/metabox/metabox.php:76
+msgid "One Page Menu"
+msgstr "Menu d'une page"
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: single-event.php:115
+msgid "Organizer"
+msgstr "Organisatrice"
+
+#: inc/metabox/metabox.php:291
+msgid "Organizer Phone"
+msgstr "Téléphone organisateur"
+
+#: inc/metabox/metabox.php:298
+msgid "Organizer Website"
+msgstr "Site de l'organisateur"
+
+#: inc/metabox/metabox.php:305
+msgid "Organizer Website Link"
+msgstr "Lien vers le site de l'organisateur"
+
+#: inc/metabox/metabox.php:248
+msgid "Outdoor Spaces"
+msgstr "Espaces extérieurs"
+
+#: single-event.php:77
+msgid "Outdoor Spaces : "
+msgstr "Espaces extérieurs:"
+
+#: inc/metabox/metabox.php:150
+msgid "Overlay Opacity"
+msgstr "Superposition d'opacité"
+
+#: template-parts/blog-layout.php:65 template-parts/content-search.php:32
+#: template-parts/content-single.php:84
+msgid "Page"
+msgstr "Page"
+
+#: 404.php:29
+msgid "PAGE NOT FOUND"
+msgstr "PAGE NON TROUVÉE"
+
+#: inc/metabox/metabox.php:203
+msgid "Page Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:205
+msgid "Page padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:60
+msgid "Page Settings"
+msgstr ""
+
+#: inc/metabox/metabox.php:171
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/metabox/metabox.php:179
+msgid "Page Title Font Size"
+msgstr ""
+
+#: template-parts/blog-layout.php:63 template-parts/content-page.php:19
+#: template-parts/content-search.php:30 template-parts/content-single.php:80
+msgid "Pages:"
+msgstr "Pages:"
+
+#: inc/tgm-plugin/required-plugins.php:105
+msgid "PayPal Donations"
+msgstr ""
+
+#: single-event.php:101 single-event.php:119
+msgid "Phone :"
+msgstr "Téléphone :"
+
+#: searchform.php:13 inc/header/header-4.php:71
+#: inc/header/header-default.php:73
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr "Cherche ici"
+
+#: inc/tgm-plugin/required-plugins.php:214
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:209
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:212
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/metabox/metabox.php:164
+msgid "Position center"
+msgstr ""
+
+#: inc/metabox/metabox.php:163
+msgid "Position left"
+msgstr ""
+
+#: inc/metabox/metabox.php:165
+msgid "Position right"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posté sur %s"
+
+#: inc/metabox/metabox.php:36
+msgid "Post Settings"
+msgstr "Paramètres de post"
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/breadcrumb/breadcrumb.php:28
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Articles étiquetés \"%s\""
+
+#: template-parts/content-single.php:106
+msgid "prev post"
+msgstr "post précédent"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primaire"
+
+#: inc/global-functions.php:39
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:75
+msgid "Redux Framework"
+msgstr ""
+
+#: single-causes.php:69
+msgid "Related Causes"
+msgstr "Causes connexes"
+
+#: inc/tgm-plugin/required-plugins.php:208
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/metabox/metabox.php:52
+msgid "Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/widgets/widget-register.php:11
+msgid "Ritht Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: functions.php:128
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: inc/breadcrumb/breadcrumb.php:27
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Résultats de recherche pour \"%s\" Question"
+
+#: inc/global-functions.php:206
+msgid "Select a sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:220
+msgid "Select Event Date"
+msgstr ""
+
+#: inc/metabox/metabox.php:234
+msgid "Select Event End Time"
+msgstr ""
+
+#: inc/metabox/metabox.php:227
+msgid "Select Event Start Time"
+msgstr ""
+
+#: inc/metabox/metabox.php:312
+msgid "Select Google Map API Key"
+msgstr ""
+
+#: inc/metabox/metabox.php:49
+msgid "Select Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:18
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:241
+msgid "Select Location"
+msgstr ""
+
+#: inc/metabox/metabox.php:86
+msgid "Select Menu Behabior"
+msgstr ""
+
+#: inc/metabox/metabox.php:69 inc/metabox/metabox.php:73
+msgid "Select Menu Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:329
+msgid "Select Option"
+msgstr ""
+
+#: inc/metabox/metabox.php:44
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:9
+msgid "Select Page Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:262
+msgid "Select Phone Number"
+msgstr "Sélectionnez un numéro de téléphone"
+
+#: inc/metabox/metabox.php:162
+msgid "Select position"
+msgstr ""
+
+#: inc/metabox/metabox.php:27
+msgid "Select Right Sidebar"
+msgstr "Sélectionnez la barre latérale droite"
+
+#: template-parts/content-single.php:95
+msgid "Share:"
+msgstr "Partager:"
+
+#: inc/tgm-plugin/required-plugins.php:147
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:188
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:158
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagué %1$s"
+
+#: inc/tgm-plugin/required-plugins.php:163
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:210
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:183
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:178
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:35
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:168
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:153
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:148
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: single-event.php:94
+msgid "Time :"
+msgstr "Temps :"
+
+#: single-event.php:96
+msgid "to"
+msgstr "à"
+
+#: functions.php:61
+msgid "Top Bar Left menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Top Bar Right menu"
+msgstr ""
+
+#: inc/metabox/metabox.php:99
+msgid "Topbar Enable"
+msgstr ""
+
+#: comments.php:65
+msgid "Type Your comment*"
+msgstr "Tapez votre commentaire *"
+
+#: inc/metabox/metabox.php:132
+msgid "Upload Breadcrumb Image"
+msgstr ""
+
+#: inc/metabox/metabox.php:134
+msgid "upload image here"
+msgstr "télécharger l'image ici"
+
+#: inc/metabox/metabox.php:334
+msgid "Use custom link"
+msgstr ""
+
+#: inc/metabox/metabox.php:333
+msgid "Use donate form"
+msgstr ""
+
+#: single-event.php:68
+msgid "Venue"
+msgstr "Lieu"
+
+#: inc/metabox/metabox.php:255
+msgid "Venue Name"
+msgstr "nom de la place"
+
+#: single-event.php:74
+msgid "Venue Name : "
+msgstr "Nom de la place :"
+
+#. Name of the theme
+msgid "Vorosa"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:62
+msgid "vorosa Helper Plugin"
+msgstr ""
+
+#. Description of the theme
+msgid "Vorosa is a Charity Fundraising based WordPress Theme."
+msgstr ""
+
+#: inc/metabox/metabox.php:269
+msgid "Website"
+msgstr "Site Internet"
+
+#: single-event.php:107 single-event.php:125
+msgid "Website :"
+msgstr "Site Internet :"
+
+#: inc/metabox/metabox.php:276
+msgid "Website Link"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:110
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/widgets/widget-register.php:32
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/metabox/metabox.php:117
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/comment-form.php:24 inc/comment-form.php:76
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: comments.php:54
+msgid "Your email*"
+msgstr "Votre email *"
+
+#: comments.php:51
+msgid "Your mail*"
+msgstr "Ton courrier*"
+
+#: comments.php:57
+msgid "Your website"
+msgstr "Votre site web"
